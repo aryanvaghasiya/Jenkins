@@ -1,7 +1,7 @@
 # Mini Project Report
 
-**Student Name:** Areen Vaghasiya
-**Roll Number:** IMT2022048
+**Student Name:** Aryan Vaghasiya
+**Roll Number:** IMT2022046
 **Project Title:** Scientific Calculator with DevOps Pipeline
 
 ---
@@ -56,15 +56,15 @@
 ### 4.1 Source Control Management (Git + GitHub)
 
 * **Brief:** Code versioning, collaboration, rollback.
-* **Setup:** Installed Git, created GitHub repo `ScientificCalculator-DevOps`.
+* **Setup:** Installed Git, created mini-project in repo `Jenkins`.
 * **Commands Used:**
 
   ```bash
-  git init
-  git remote add origin <repo-url>
-  git add .
-  git commit -m "Initial commit with BasicOps and AdvOps"
-  git push -u origin master
+  git clone https://github.com/aryanvaghasiya/Jenkins.git
+  cd Jenkins/
+  git add Mini-Project/ (after copying code files in Jenkins folder)
+  git commit -m "added miniproject to jenkin"
+  git push -u origin main
   ```
 * **Screenshots:**
 
